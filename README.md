@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Gunawan</h1>
 <h3 align="center">Undergraduate student from Blitar, Indonesia.</h3>
+<h3 align="center">Bangkit H2 2023 Cloud Computing Cohort</h3>
 
 - 🌱 I’m currently learning **Flutter and Figma**
 
