@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Gunawan</h1>
 <h3 align="center">Undergraduate student from Blitar, Indonesia.</h3>
 
-- 🌱 I’m currently learning **Flutter and Figma**
+- 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
